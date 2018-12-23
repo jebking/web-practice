@@ -2,4 +2,4 @@
 
 <div id="text"></div>
 
-<script src="/demo.js"></script>
+<script src="/web-practice/demo.js"></script>

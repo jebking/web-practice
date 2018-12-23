@@ -2,4 +2,4 @@
 
 <div id="text"></div>
 
-<script src="/json.js"></script>
+<script src="/web-practice/json.js"></script>
