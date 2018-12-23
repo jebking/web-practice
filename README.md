@@ -1,3 +1,8 @@
+
+[js](https://jebking.github.io/web-practice/js)
+[json](https://jebking.github.io/web-practice/json)
+[jquery](https://jebking.github.io/web-practice/jquery)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jebking/web-practice/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
