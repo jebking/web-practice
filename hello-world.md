@@ -1,4 +1,4 @@
-// from react tutorial
+<!-- from react tutorial -->
 
 <html>
 <head>
@@ -19,4 +19,3 @@
   </script>
 </body>
 </html>
-
